@@ -1,0 +1,1 @@
+function D(t="YYYY-MM-DD"){return a(new Date,t)}function a(t=new Date,e="YYYY-MM-DD"){const Y=t.getFullYear(),n=String(t.getMonth()+1).padStart(2,"0"),r=String(t.getDate()).padStart(2,"0");return e==="YYYY-MM-DD"?`${Y}-${n}-${r}`:e==="DD-MM-YYYY"?`${r}-${n}-${Y}`:e==="MM-DD-YYYY"?`${n}-${r}-${Y}`:`${Y}-${n}-${r}`}export{a as f,D as t};
