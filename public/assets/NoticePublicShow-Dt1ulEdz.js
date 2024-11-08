@@ -1,1 +1,0 @@
-import e from"./NoticeShow-BDPvB2v7.js";import{c,f as o,d as t}from"./index-BUH1Oswi.js";const a={class:"my-container my-10"},i={__name:"NoticePublicShow",setup(r){return(s,_)=>(t(),c("div",a,[o(e)]))}};export{i as default};
