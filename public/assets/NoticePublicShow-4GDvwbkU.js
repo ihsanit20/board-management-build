@@ -1,0 +1,1 @@
+import e from"./NoticeShow-WREI_tYC.js";import{c,f as o,d as t}from"./index-B3aDW6WQ.js";const a={class:"my-container my-10"},i={__name:"NoticePublicShow",setup(r){return(s,_)=>(t(),c("div",a,[o(e)]))}};export{i as default};
