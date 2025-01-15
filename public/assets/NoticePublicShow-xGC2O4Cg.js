@@ -1,0 +1,1 @@
+import e from"./NoticeShow-BORR22pK.js";import{c,f as o,d as t}from"./index-D0y9kQRj.js";const a={class:"my-container my-10"},i={__name:"NoticePublicShow",setup(r){return(s,_)=>(t(),c("div",a,[o(e)]))}};export{i as default};
